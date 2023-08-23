@@ -1,0 +1,86 @@
+.css-1x3v3vy {
+  background: #ffff00 !important;
+  color: black !important;
+}
+.icons {
+  color: red;
+}
+
+.css-10hh7uc-MuiPaper-root {
+  margin-left: 24% !important;
+}
+
+.css-1mb7ed4 {
+  margin-top: 75px;
+}
+
+.css-15m7mkq {
+  background: black !important;
+}
+
+.css-lvl4a5-MuiDrawer-docked .MuiDrawer-paper {
+  background: black !important;
+}
+
+.css-tdxonj-MuiTableHead-root {
+  display: contents !important;
+}
+.css-nnc4si {
+  display: contents !important;
+}
+.table-data {
+  display: contents !important;
+}
+
+.css-a778gc {
+  margin-right: 23% !important;
+  margin-left: 27% !important;
+}
+
+.refferal {
+  margin-top: 9px;
+  padding: 6px;
+}
+
+.font-size {
+  font-size: 13px;
+}
+
+.MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.css-zow5z4-MuiGrid-root {
+  padding: 28px;
+}
+
+.common-50{
+  width:50%;
+}
+
+/* Styles for the modal container */
+.modal-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 487px;
+  background-color: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for the order details content */
+.order-details-content {
+  margin-top: 16px;
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 8px;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+
+/* Styles for the close button */
+.close-button {
+  margin-top: 16px;
+  display: block;
+  width: 100%;
+}
